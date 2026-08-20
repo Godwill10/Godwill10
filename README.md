@@ -1,4 +1,4 @@
-# Hi, I'm Godwill Afolabi 👋
+# Hi, I'm Godwill Afolabi 
 
 I'm a software engineer and Technical Services Developer who builds dependable applications, data integrations, and cloud infrastructure. My work sits at the intersection of product engineering, complex SQL, and practical problem-solving for K–12 organizations.
 
