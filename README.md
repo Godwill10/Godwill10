@@ -17,6 +17,7 @@ I'm a software engineer and Technical Services Developer who builds dependable a
 - **[SQS Fanout Image App](https://github.com/Godwill10/sqs-fanout-image-app)** — event-driven image processing workflow using S3, SNS, SQS, Lambda, and DynamoDB.
 - **[AWS Java CI/CD Pipeline](https://github.com/Godwill10/AWS-Java-CI-CD-Pipeline)** — automated Java delivery pipeline implemented with AWS CodePipeline, CodeBuild, and CloudFormation.
 - **[CDK Web Architecture](https://github.com/Godwill10/cdk-web-architecture)** — two-stack AWS CDK architecture with multi-AZ networking, EC2, and a private MySQL database.
+- **[QuickBite Angular Restaurant App](https://github.com/Godwill10/QuickBite-Angular-Restaurant-App)** — full-stack restaurant ordering experience built with Angular 18, Express, responsive CSS, validated checkout, and automated deployment.
 
 ## Beyond the code
 
